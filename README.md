@@ -1,1 +1,1 @@
-# modelos_preditivos
+# Modelo de regressão através da linguagem Python
